@@ -4,7 +4,7 @@ GIS icons theme is designed mainly for GIS applications.
 I hope it will help in intuitive visual identification of typical objects and actions. 
 It is intended to be open and free alternative for existing GIS icon sets.
 
-Design was inspired mainly by [Tango Desktop Project](http://tango.freedesktop.org/Tango_Desktop_Project). 
+Design was inspired mainly by [Tango Desktop Project](https://en.wikipedia.org/wiki/Tango_Desktop_Project). 
 I was impressed by beauty and simplicity of this design and tried to follow Tango guidelines. 
 I hope to get close to this level in version 7.0 :) 
 
